@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://proactioneu.ent.cgi.com/gitlab/cee/arnd.vorrath/argocd-app-config.git
+    repoURL: https://github.com/ArndVorrath/argocd-app-config.git
     targetRevision: HEAD
     path: dev
   destination: 
